@@ -62,5 +62,6 @@ The EDA is divided into three major stages:
 
 ## 🚀 How to Run
    ```bash
+   gh auth login
    git clone https://github.com/adarshunknown/EDA-on-mushroom-dataset.git
-   cd EDA-on-mushroom-dataset
+
