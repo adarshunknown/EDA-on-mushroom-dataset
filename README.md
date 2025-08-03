@@ -61,8 +61,6 @@ The EDA is divided into three major stages:
 ---
 
 ## 🚀 How to Run
-
-1. Clone the repository:
    ```bash
    git clone https://github.com/adarshunknown/EDA-on-mushroom-dataset.git
    cd EDA-on-mushroom-dataset
