@@ -58,10 +58,4 @@ The EDA is divided into three major stages:
 - Some features show perfect separation — potentially useful for decision-tree-based models.
 - No significant missing data in the dataset.
 
----
-
-## 🚀 How to Run
-   ```bash
-   gh auth login
-   git clone https://github.com/adarshunknown/EDA-on-mushroom-dataset.git
 
